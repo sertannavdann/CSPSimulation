@@ -9,9 +9,9 @@ When the game is over it will start again until it reaches the "best of 3".
 
 ### N Input simulation
 
-This require the user to input those arguments:
+Second part of this require the user to input those arguments:
 
-1) Second part of this gets number of variables.
+1) Number of variables.
 2) Name of the each Variable like; Rock, Paper, Scissors etc...
 3) 2 other variables that win over current variable.
 
