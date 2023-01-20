@@ -1,9 +1,9 @@
 ### Simulation for Rock, Paper, Scissors, Lizard, Spock
 
-rockPaperScissors.cpp will randomize selection for computer1 and computer2. 
-selection will be between Rock, Paper, Scissors, Lizard, Spock.
+\n rockPaperScissors.cpp will randomize selection for computer1 and computer2. 
+\n Selection will be between Rock, Paper, Scissors, Lizard, Spock.
 
-When the game is over it will start again until it reaches the "best of 3".
+\n When the game is over it will start again until it reaches the "best of 3".
 
 <img src="/images/1.png" width="300" height="200">
 
