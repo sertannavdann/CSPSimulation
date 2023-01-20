@@ -7,7 +7,7 @@ When the game is over it will start again until it reaches the "best of 3".
 
 <img src="/images/1.png" width="300" height="300">
 
-### N Input simulation
+### N Input simulation (process of development continues)
 
 Second part of this require the user to input those arguments:
 
